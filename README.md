@@ -5,7 +5,7 @@ Plugin for [YOURLS](http://yourls.org) `1.7+`.
 
 Description
 -----------
-Adds Tracking from Matomo to YOURLS. I think it's not the best method, but it works for me. Let me know if you have any problems.
+Adds Tracking from Matomo to YOURLS. I think it's not the best method, but it works for me. Let me know if you have any problems. Tracks event instead of Pageview.
 
 Installation
 ------------
